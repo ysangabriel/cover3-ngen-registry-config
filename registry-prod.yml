@@ -4,7 +4,7 @@
 
 # Property used on app startup to check the config server status
 configserver:
-    name: Registry config server
+    name: registry
     status: Connected to the Registry config server!
 
 # Default JWT secret token (to be changed in production!)
